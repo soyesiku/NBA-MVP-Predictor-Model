@@ -1,1 +1,7 @@
 # NBA-MVP-Predictor-Model
+
+This project will create a model that is able to predict the points per game of players who play more minutes than the threshold we will have to find in the EDA. Because this project will be ongoing during the start of the 2022-2023 NBA season, we will be able to compare the statistics predicted by the model with actual player data throughout the season. Of course, this project will not take into account injuries that happen this year, and there may be other factors that can affect the stats that a player would have. This model simply uses player data from the last 4-5 years of the NBA in order to make a prediction. 
+
+The dataset used for this project can be found at the link shown below. This data from Basketball Reference details the per game statistics of every player in the NBA for each season. The columns show (per game) the player name, team, position, age, games played, games started, minutes played, field goals, field goals attempted, field goal percentage, free throws, free throw attempts, free throw percentage, 3-point percentage with attempts and makes, 2-point percentage with attempts and makes, effective field goal percentage, offensive rebounds, defensive rebounds, total rebounds, assists, steals, blocks, turnovers, personal fouls, and points. Basketball Reference tabulates all of this player data for a given year, and this data can be exported as a CSV. 
+
+https://www.basketball-reference.com/leagues/NBA_2022_per_game.html
